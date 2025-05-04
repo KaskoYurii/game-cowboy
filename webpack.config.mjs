@@ -17,6 +17,7 @@ export default (_env, argv) => {
       path: path.resolve(process.cwd(), "dist"),
       filename: "bundle.js",
       clean: true,
+      publicPath: "/game-cowboy/",
     },
 
     // Config for your testing server

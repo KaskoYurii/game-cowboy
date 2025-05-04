@@ -1,0 +1,45 @@
+{
+  "frames": {
+    "cowboy_fire_1": {
+      "frame": { "x": 0, "y": 0, "w": 300, "h": 250 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 250 },
+      "sourceSize": { "w": 300, "h": 250 }
+    },
+    "cowboy_fire_2": {
+      "frame": { "x": 300, "y": 0, "w": 250, "h": 250 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 250 },
+      "sourceSize": { "w": 250, "h": 250 }
+    },
+    "cowboy_fire_3": {
+      "frame": { "x": 50, "y": 250, "w": 250, "h": 250 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 250 },
+      "sourceSize": { "w": 250, "h": 250 }
+    },
+    "cowboy_fire_4": {
+      "frame": { "x": 50, "y": 250, "w": 250, "h": 250 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 250 },
+      "sourceSize": { "w": 250, "h": 250 }
+    }
+  },
+  "animations": {
+    "cowboy_fire": [
+      "cowboy_fire_1",
+      "cowboy_fire_2",
+      "cowboy_fire_3",
+      "cowboy_fire_4"
+    ]
+  },
+  "meta": {
+    "image": "images/cowboy.png",
+    "size": { "w": 250, "h": 250 },
+    "scale": "1"
+  }
+}

@@ -19,3 +19,7 @@
 - `src/utils` - the utils folder that has the main controll files for the animations and sound
 - `src/utils/levelConfig.json` - the file that controls the level confogurations ( enemy count, animation speed)
 - `src/main.ts` - the main file of the app for the app init
+
+# 
+## Demo 
+The project demo available here - https://kaskoyurii.github.io/game-cowboy/
